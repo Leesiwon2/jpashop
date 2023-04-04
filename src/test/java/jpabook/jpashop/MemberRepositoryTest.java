@@ -1,7 +1,6 @@
 package jpabook.jpashop;
 
-import static org.junit.Assert.*;
-
+import jpabook.jpashop.domain.Member;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;
